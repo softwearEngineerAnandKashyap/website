@@ -1,6 +1,7 @@
 {{-- Add master layouts include header and footer --}}
 @extends('layouts.master_layouts')
 @section('content')
+<h1>This is blade templating Engin</h1>
  <!-- Slider AREA -->
 		<div class="slider-area">
 			<div class="container">
